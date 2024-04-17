@@ -45,6 +45,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 * [MediaPipe Python examples using WebRTC based OSSDC VisionAI platform](https://github.com/OSSDC/OSSDC-VisionAI-Core/blob/master/video_processing_mediapipe.py)
 
+* [Hair segmentation and coloring on real-time webcam video and static images](https://github.com/Ys-sudo/hair-coloring-app)
+
 ## Android examples
 
 *Android examples.*
